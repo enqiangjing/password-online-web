@@ -1,9 +1,9 @@
-# 线上密码管理网站
+# 线上密码管理系统
 
 ## 1. 工程介绍
 
 * 基于 Nxut 实现的“在线密码管理工具”前端工程
-* **详细使用请见** [**操作手册**](https://gitee.com/jingenqiang/password-online-web/blob/master/options.md)
+* **详细使用请见** [**操作手册**](https://github.com/enqiangjing/study-online-web/blob/main/options.md)
 
 ```shell
 # 项目介绍
