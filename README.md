@@ -7,10 +7,14 @@
 
 ```shell
 # 项目介绍
-git clone git@github.com:enqiangjing/password-online.git
+https://github.com/enqiangjing/password-online
+
+# 前端项目
+https://github.com/enqiangjing/password-online-web
+https://github.com/enqiangjing/password-online-uniapp
 
 # 后端项目
-git clone git@github.com:enqiangjing/password-online-api.git
+https://github.com/enqiangjing/password-online-api
 ```
 
 
