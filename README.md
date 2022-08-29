@@ -3,7 +3,7 @@
 ## 1. 工程介绍
 
 * 基于 Nxut 实现的“在线密码管理工具”前端工程
-* **详细使用请见** [**操作手册**](https://github.com/enqiangjing/study-online-web/blob/main/options.md)
+* **详细使用请见** [**操作手册**](https://github.com/enqiangjing/password-online-web/blob/main/options.md)
 
 ```shell
 # 项目介绍
